@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=apilarteq&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apilarteq&theme=dark&hide_border=false" height="220" alt="streak graph"  />
   <h2 />
 </div>
 
