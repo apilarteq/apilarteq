@@ -14,7 +14,7 @@
 <p align="left">
 - 🔭 I’m working as Full-Stack Developer on an LMS (Learning Management System)<br>
 - 📚 I'm currently learning advanced backend concepts, Astro, and AI integration.<br>
-- ⚡ In my free time, I work on my own projects. Right now, I’m developing a web-based chat application.
+- ⚡ In my free time, I work on my own projects. Right now, I’m developing a Toast library for React.
 </p>
 <h2 />
 
@@ -46,17 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="33" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="33" alt="postgresql logo"  />
-  <h2 />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apilarteq&theme=dark&hide_border=false" height="220" alt="streak graph"  />
   <h2 />
 </div>
 
