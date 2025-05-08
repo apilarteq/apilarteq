@@ -14,7 +14,7 @@
 <p align="left">
 - 🔭 I’m working as Full-Stack Developer on an LMS (Learning Management System)<br>
 - 📚 I'm currently learning advanced backend concepts, Astro, and AI integration.<br>
-- ⚡ In my free time, I work on my own projects. Right now, I’m developing a Toast library for React.
+- ⚡ In my free time, I work on my own projects. Right now, I’m developing an AI agent.
 </p>
 <h2 />
 
