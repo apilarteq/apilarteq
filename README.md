@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm a third-year Systems Engineering student and a passionate Full-Stack Developer with experience in modern web technologies, including HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, NestJS, and GraphQL. I have a strong foundation in both frontend and backend development, allowing me to build scalable, efficient, and user-friendly applications. I enjoy solving complex problems, optimizing performance, and staying up to date with the latest industry trends. My goal is to create high-quality software that enhances user experiences and drives innovation.</p>
+<p align="center">I'm a fourth-year Systems Engineering student and a passionate Full-Stack Developer with experience in modern web technologies, including HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, NestJS, and GraphQL. I have a strong foundation in both frontend and backend development, allowing me to build scalable, efficient, and user-friendly applications. I enjoy solving complex problems, optimizing performance, and staying up to date with the latest industry trends. My goal is to create high-quality software that enhances user experiences and drives innovation.</p>
 <h2 />
 
 ###
